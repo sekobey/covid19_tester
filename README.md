@@ -1,3 +1,4 @@
+
 # Covid-19 Tester
 
 This is a Coronavirus Tester mobile application. I made it public because Google Play or Apple App Store do not allow uploading Covid-19 applications if you are not government :)
@@ -39,12 +40,16 @@ run:
 
 ## ScreenShots From Android Nexus Simulator
 
-![Main Screen](https://www.dropbox.com/s/lya1hzt9r99xspw/Screenshot_1595285748.png?dl=0)
-![Breathing Status](https://www.dropbox.com/s/lgyqx2jppo5eti7/Screenshot_1595285804.png?dl=0)
-![Test Result](https://www.dropbox.com/s/frr90uj8d5b2flq/Screenshot_1595285831.png?dl=0)
+<img src="assets/images/scrshots/android/Screenshot_1595285748.png" width="250"/>
+&nbsp;
+<img src="assets/images/scrshots/android/Screenshot_1595285804.png" width="250"/>
+&nbsp;
+<img src="assets/images/scrshots/android/Screenshot_1595285831.png" width="250"/>
 
 ## ScreenShots From iPhone 11 Simulator
 
-![Main Screen](https://www.dropbox.com/s/5s8svmax7lddghv/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202020-07-21%20at%2002.02.56.png?dl=0)
-![Breathing Status](https://www.dropbox.com/s/qgrtgk96l2eog64/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202020-07-21%20at%2002.04.32.png?dl=0)
-![Test Result](https://www.dropbox.com/s/oo0fr1sowd12tat/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202020-07-21%20at%2002.05.03.png?dl=0)
+<img src="assets/images/scrshots/iphone/home.png" width="250"/>
+&nbsp;
+<img src="assets/images/scrshots/iphone/breathing.png" width="250"/>
+&nbsp;
+<img src="assets/images/scrshots/iphone/result.png" width="250"/>
