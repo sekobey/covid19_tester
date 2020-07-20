@@ -8,8 +8,6 @@ import 'l10n/messages_all.dart';
 class AppLocalizations {
 
   static Future<AppLocalizations> load(Locale locale) {
-    print('Locale: $locale');
-    print('Language Code: ${locale.languageCode}');
     final String name =
     locale.countryCode == null ? locale.languageCode : locale.toString();
     final String localeName = Intl.canonicalizedLocale(name);

@@ -36,3 +36,15 @@ This will generate new text key in I10n/intl_messages.arb. Copy that block and p
 run:
 `flutter pub pub run intl_translation:generate_from_arb --output-dir=lib/l10n \
    --no-use-deferred-loading lib/localizations.dart lib/l10n/intl_*.arb`
+
+## ScreenShots From Android Nexus Simulator
+
+![Main Screen](https://www.dropbox.com/s/lya1hzt9r99xspw/Screenshot_1595285748.png?dl=0)
+![Breathing Status](https://www.dropbox.com/s/lgyqx2jppo5eti7/Screenshot_1595285804.png?dl=0)
+![Test Result](https://www.dropbox.com/s/frr90uj8d5b2flq/Screenshot_1595285831.png?dl=0)
+
+## ScreenShots From iPhone 11 Simulator
+
+![Main Screen](https://www.dropbox.com/s/5s8svmax7lddghv/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202020-07-21%20at%2002.02.56.png?dl=0)
+![Breathing Status](https://www.dropbox.com/s/qgrtgk96l2eog64/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202020-07-21%20at%2002.04.32.png?dl=0)
+![Test Result](https://www.dropbox.com/s/oo0fr1sowd12tat/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202020-07-21%20at%2002.05.03.png?dl=0)

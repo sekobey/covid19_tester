@@ -25,7 +25,6 @@ class _CountDownTimerState extends State<CountDownTimer>
       duration: Duration(seconds: 10),
     );
     controller.addStatusListener((status) {
-      print(status);
       if (status == AnimationStatus.dismissed) {
         Navigator.push(
           context,
