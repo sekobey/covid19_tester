@@ -38,6 +38,8 @@ run:
 `flutter pub pub run intl_translation:generate_from_arb --output-dir=lib/l10n \
    --no-use-deferred-loading lib/localizations.dart lib/l10n/intl_*.arb`
 
+Reference: https://proandroiddev.com/flutter-localization-step-by-step-30f95d06018d
+
 ## ScreenShots From Android Nexus Simulator
 
 <img src="assets/images/scrshots/android/Screenshot_1595285748.png" width="250"/>
