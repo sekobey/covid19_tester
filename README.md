@@ -7,6 +7,8 @@ This application contains questions to learn the COVID-19 status of the user. It
 
 I used the most seen symptomps to create the questions in the app. Also, I applied a doctor to refine the questions.
 
+Thanks to Merve Kilinc Yildirim for her valuable contributions.
+
 ## Tech Stack
 
 - Google Flutter
