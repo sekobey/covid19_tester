@@ -1,0 +1,208 @@
+{
+  "@@last_modified": "2020-07-20T03:01:39.504896",
+  "title_covid19_tester": "COVID-19 Test Uygulaması",
+  "@title_covid19_tester": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "description_application": "* Bu uygulama sorulan sorulara verilen cevaplarla COVID-19 virüsüne yakalanıp yakalanmadığınızı test eder. Bu nedenle kesin bir sonuç vermez. Sorular COVID-19 hastalarında sıklıkla görülen semptomlara yönelik hazırlanmıştır.",
+  "@description_application": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "title_personal_information": "Kişisel Bilgiler",
+  "@title_personal_information": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "next": "İleri",
+  "@next": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "year_of_birth": "* Doğum Yılı",
+  "@year_of_birth": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_empty_year_of_birth": "Lütfen doğum yılınızı giriniz.",
+  "@warning_empty_year_of_birth": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_valid_year": "Lütfen geçerli bir yıl giriniz.",
+  "@warning_valid_year": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_year_smallerthan_current": "Doğum yılı şimdiki yıldan küçük olmalıdır.",
+  "@warning_year_smallerthan_current": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "gender": "* Cinsiyet",
+  "@gender": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "select_gender": "Cinsiyet seçiniz",
+  "@select_gender": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "male": "Erkek",
+  "@male": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "female": "Kadın",
+  "@female": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "country": "* Ülke",
+  "@country": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "select_country": "Ülke seçiniz",
+  "@select_country": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "title_general_situation": "Genel Durum",
+  "@title_general_situation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "general_tired": "Yorgun hissediyorum",
+  "@general_tired": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "general_coughing": "Öksürüğüm var",
+  "@general_coughing": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "general_chronic": "Kronik rahatsızlığım var",
+  "@general_chronic": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "title_breathing_status": "Nefes Alma Durumu",
+  "@title_breathing_status": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "breathing_info": "Nefesinizi 10 saniye tutunuz. Hazır olduğunuzda 'Başla' butonuna basınız.",
+  "@breathing_info": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "breathing_info2": "* Bu testte sizin nefes alma durumunuzu öğrenmek istiyoruz. Bu nedenle sizden nefesinizi 10 saniye tutmanızı istiyoruz. Eğer 10 saniyeden önce öksürmeye başlıyorsanız, bu bir problem olma ihtimalini arttırır.",
+  "@breathing_info2": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "start": "Başla",
+  "@start": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "breathing_question": "Nefesinizi öksürmeden tutabildiniz mi?",
+  "@breathing_question": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yes": "Evet",
+  "@yes": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no": "Hayır",
+  "@no": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "title_fever": "Ateş Ölçümü",
+  "@title_fever": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "fever_info": "Lütfen ateşinizi ölçünüz ve aşağıdaki alana giriniz.",
+  "@fever_info": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "fever_info2": "* Yüksek ateş en önemli semptomlardan biridir. İstatistiklere göre hastaların çoğu yüksek ateşe sahiptir.",
+  "@fever_info2": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "title_noWorries": "Evde Kal",
+  "@title_noWorries": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "title_takeCare": "Kendine Dikkat Et",
+  "@title_takeCare": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "title_betterGoHospital": "Hastaneye Gitsen Fena Olmaz",
+  "@title_betterGoHospital": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "title_shouldGoHospital": "Hastaneye Gitmelisin",
+  "@title_shouldGoHospital": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "title_emergency": "Acil Durum",
+  "@title_emergency": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "info_noWorries": "Cevaplarınıza göre iyi gözüküyorsunuz. Endişelenmenize gerek gözükmüyor. Lütfen mümkün oldukça evde kalınız.",
+  "@info_noWorries": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "info_takeCare": "Kendinize iyi bakmalısınız ve evde kalmalısınız. Bağışıklık sisteminizi güçlendirecek gıdalar alınız.",
+  "@info_takeCare": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "info_betterGoHospital": "Lütfen endişelenmeyin fakat bir hastaneye gidip durumunuz hakkında emin olsanız iyi olur.",
+  "@info_betterGoHospital": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "info_shouldGoHospital": "Hastaneye gitmelisiniz çünkü semptomlarınız beklenen değerlerden biraz yukarıda gözüküyor.",
+  "@info_shouldGoHospital": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "info_emergency": "Cevaplarınıza göre, durumunuz biraz acil gözüküyor. Durumunuz hakkında emin olmak acil servise başvurunuz.",
+  "@info_emergency": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "start_new_test": "Yeni bir teste başla",
+  "@start_new_test": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "start_test": "Teste\nBaşla",
+  "@start_test": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "title_test_result": "Test Sonucu",
+  "@title_test_result": {
+    "type": "text",
+    "placeholders": {}
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "@@last_modified": "2020-07-20T03:01:39.504896",
+  "title_covid19_tester": "COVID-19 Tester",
+  "@title_covid19_tester": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "description_application": "* This application is used to test whether person has COVID-19 according to the answers. Therefore, it does not give exact result. Questions are based on the mostly seen symptomps among COVID-19 patients.",
+  "@description_application": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "title_personal_information": "Personal Information",
+  "@title_personal_information": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "next": "Next",
+  "@next": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "year_of_birth": "* Year of Birth",
+  "@year_of_birth": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_empty_year_of_birth": "Please enter your year of birth",
+  "@warning_empty_year_of_birth": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_valid_year": "Please enter a valid year",
+  "@warning_valid_year": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning_year_smallerthan_current": "Year of birth has to be smaller than current year",
+  "@warning_year_smallerthan_current": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "gender": "* Gender",
+  "@gender": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "select_gender": "Select a gender",
+  "@select_gender": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "male": "Male",
+  "@male": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "female": "Female",
+  "@female": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "country": "* Country",
+  "@country": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "select_country": "Select a country",
+  "@select_country": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "title_general_situation": "General Situation",
+  "@title_general_situation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "general_tired": "I am feeling tired",
+  "@general_tired": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "general_coughing": "I am coughing",
+  "@general_coughing": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "general_chronic": "I have chronic disease",
+  "@general_chronic": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "title_breathing_status": "Breathing Status",
+  "@title_breathing_status": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "breathing_info": "Keep your breath for 10 seconds. Press 'Start' when you are ready.",
+  "@breathing_info": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "breathing_info2": "* In this test, we want to learn your breathing status. Therefore, we want you to keep your breath for 10 seconds. if you are coughing before 10 seconds end, then there may be a problem.",
+  "@breathing_info2": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "start": "Start",
+  "@start": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "breathing_question": "Were you able to keep your breath without coughing?",
+  "@breathing_question": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yes": "Yes",
+  "@yes": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no": "No",
+  "@no": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "title_fever": "Fever Measure",
+  "@title_fever": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "fever_info": "Please measure your fever and enter it to the below field.",
+  "@fever_info": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "fever_info2": "* One of the most important symptom for COVID-19 is high fever. The Most of the patients has high fever according to the statistics.",
+  "@fever_info2": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "title_noWorries": "Stay at Home",
+  "@title_noWorries": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "title_takeCare": "Take Care",
+  "@title_takeCare": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "title_betterGoHospital": "Better to Go Hospital",
+  "@title_betterGoHospital": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "title_shouldGoHospital": "Go Hospital",
+  "@title_shouldGoHospital": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "title_emergency": "Emergency",
+  "@title_emergency": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "info_noWorries": "You seems OK according to your answers. You do not need to worry. Please stay at home.",
+  "@info_noWorries": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "info_takeCare": "You should take care of yourself and stay at home. Take additional vitamins to strengthen your immune system.",
+  "@info_takeCare": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "info_betterGoHospital": "Please do not worry but it is better to go to a hospital to be sure about your situation.",
+  "@info_betterGoHospital": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "info_shouldGoHospital": "You should go to an hospital because your symptoms are a bit high than expected.",
+  "@info_shouldGoHospital": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "info_emergency": "According to your answers, your situation is a bit critic. You have to go to emergency to be sure about your situation.",
+  "@info_emergency": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "start_new_test": "Start A New Test",
+  "@start_new_test": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "start_test": "Start\nTest",
+  "@start_test": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "title_test_result": "Test Result",
+  "@title_test_result": {
+    "type": "text",
+    "placeholders": {}
+  }
+}
